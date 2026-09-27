@@ -1,4 +1,4 @@
-# Vera Challenge Submission — Team CrackNonTech
+# Vera Challenge Submission 
 
 ## Approach
 
